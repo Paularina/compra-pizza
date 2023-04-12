@@ -69,6 +69,7 @@ main {
 
 h1 {
     font-family: 'Hepta Slab', Helvetica, Arial;
+    color: plum;
 }
 
 .pizza-area {
@@ -486,7 +487,7 @@ h1 {
     }
 }
 
-#title h1{
+#title h1 {
     color: pink;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
