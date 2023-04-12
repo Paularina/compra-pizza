@@ -67,9 +67,9 @@ main {
     padding: 20px;
 }
 
-h1 {
+#title h1 {
     font-family: 'Hepta Slab', Helvetica, Arial;
-    color: plum;
+    color: blue;
 }
 
 .pizza-area {
