@@ -486,7 +486,7 @@ h1 {
     }
 }
 
-.title {
+#title {
     color: pink;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
