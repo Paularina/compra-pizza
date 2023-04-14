@@ -69,7 +69,7 @@ main {
 
 #title h1 {
     font-family: 'Hepta Slab', Helvetica, Arial;
-    color: blue;
+    style:color: blue;
 }
 
 .pizza-area {
